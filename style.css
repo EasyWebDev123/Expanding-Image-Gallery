@@ -63,7 +63,7 @@
 .img-box:hover .two{
   opacity: 1;
   bottom: 25px;
-  color: black;
+  color: orangered;
 }
 .img-box:hover .three{
   opacity: 1;
