@@ -65,13 +65,3 @@
   bottom: 25px;
   color: black;
 }
-.img-box:hover .three{
-  opacity: 1;
-  bottom: 25px;
-  color: white;
-}
-.img-box:hover .four{
-  opacity: 1;
-  bottom: 25px;
-  color: white;
-}
